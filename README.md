@@ -2,7 +2,7 @@
 
 # Laravel Demio
 
-[![Tests](https://github.com/jeffersongoncalves/laravel-demio/actions/workflows/run-tests.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-demio/actions/workflows/run-tests.yml)
+[![Tests](https://github.com/jeffersongoncalves/laravel-demio/actions/workflows/tests.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-demio/actions/workflows/tests.yml)
 [![PHPStan](https://github.com/jeffersongoncalves/laravel-demio/actions/workflows/phpstan.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-demio/actions/workflows/phpstan.yml)
 [![Code Style](https://github.com/jeffersongoncalves/laravel-demio/actions/workflows/fix-php-code-style-issues.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-demio/actions/workflows/fix-php-code-style-issues.yml)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-demio.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/laravel-demio)
